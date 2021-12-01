@@ -8,7 +8,8 @@ Import math library using import statement
 ### Step 2: 
 Define the two points into two separate lists
 ### Step 3: 
-Substitute the values in the distance formula ![formula](formula.png)
+Substitute the values in the distance formula 
+![formula](formula.png)
 ### Step 4:
 Print the final value rounded upto two decimals using format function. It would display the distance value
 ### Step 5:
